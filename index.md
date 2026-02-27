@@ -254,7 +254,7 @@ I have an analysis paper that I published (paid) in Spring of 2024 which details
 
 But other than identify that, I could not find an SEO tool that could easily run a horizontal analysis.
 
-I have now. And full disclosure I’m a partner in [VizzEx] (https://vizzex.ai) and shaping it with my understanding of what HC measures.
+I have now. And full disclosure I’m a partner in [VizzEx](https://vizzex.ai) and shaping it with my understanding of what HC measures.
 
 ## Are Listicles and Pages with TOC Links Doomed?
 
@@ -300,6 +300,8 @@ I wonder what might happen.
 
 Perhaps content structure using headers without these TOC links will be cited without risking a false classification of duplicate content. No more getting squeezed out of results by a system that is designed to insist that the canonical is just a suggestion on everything.  
 
+P.S. The irony is not lost on me that Github has #anchors baked into its system. Hmmm, maybe this page is my next test!
+
 
 [image1]: images/image1.png
 
@@ -315,5 +317,6 @@ Perhaps content structure using headers without these TOC links will be cited wi
 
 
 [image7]: images/image7.png
+
 
 
