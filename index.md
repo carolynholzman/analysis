@@ -254,7 +254,7 @@ I have an analysis paper that I published (paid) in Spring of 2024 which details
 
 But other than identify that, I could not find an SEO tool that could easily run a horizontal analysis.
 
-I have now. And full disclosure I’m a partner in VizzEx and shaping it with my understanding of what HC measures.
+I have now. And full disclosure I’m a partner in [VizzEx] (https://vizzex.ai) and shaping it with my understanding of what HC measures.
 
 ## Are Listicles and Pages with TOC Links Doomed?
 
@@ -315,3 +315,4 @@ Perhaps content structure using headers without these TOC links will be cited wi
 
 
 [image7]: images/image7.png
+
