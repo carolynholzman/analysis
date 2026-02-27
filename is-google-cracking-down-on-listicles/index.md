@@ -7,7 +7,7 @@ description: This is a follow up article providing additional original analysis 
 
 Why? The same patterns affecting listicles are baked into how many sites and even Google itself structure their content.
 
-February 2026 has yielded a number of articles concerning the possible targeting by Google of a particular article format; the listicle. In truth, there were really only two articles that provided original analysis. The first was from Amsive’s VP of SEO Strategy & Research, Lily Ray, her observations detailed in [Google Finally Cracking Down on Self-Promotional Listicles?](https://lilyraynyc.substack.com/p/is-google-finally-cracking-down-on) And [Clearscope.io](http://Clearscope.io) founder, Bernard Huang’s [Bad News: It’s Not Just Listicles](https://www.clearscope.io/blog/bad-news-its-not-just-listicles). Everything else afterwards appears to be secondary sources and commentary.
+February 2026 has yielded a number of articles concerning the possible targeting by Google of a particular article format; the listicle. In truth, there were really only two articles that provided original analysis. The first was from Amsive’s VP of SEO Strategy & Research, Lily Ray, her observations detailed in [Google Finally Cracking Down on Self-Promotional Listicles?](https://lilyraynyc.substack.com/p/is-google-finally-cracking-down-on) And Clearscope.io founder, Bernard Huang’s [Bad News: It’s Not Just Listicles](https://www.clearscope.io/blog/bad-news-its-not-just-listicles). Everything else afterwards appears to be secondary sources and commentary.
 
 In Lily’s article, the connection was made between an undeniable decline in visibility of the sites as evidence of a specific *crackdown* on this format. Google is now devaluing this specific pattern of self‑promotional, templated listicles that look like they were produced to exploit SERP and AI‑answer behavior. 
 
@@ -39,7 +39,7 @@ What we have witnessed impacts more than only self-serving listicles and is acro
 
 If we game out what would happen if same-page jump links were treated as individual pages and no longer attributed to the main web page canonical, THIS is what that would look like: 
 
-Duplicate content everywhere.
+Duplicate content everywhere getting suppressed either with a smaller and smaller query footprint until, in some cases, the page is completely washed out of the live index.
 
 ## Parameters Create What Appear To Be New URLS Says Google
 
@@ -47,14 +47,11 @@ Tracing the deprecation of the Google URL Parameter Tool from April 2022, you do
 
 In 4 years we’ve gone from Google assuring us that [Google's crawlers will learn](https://www.searchenginejournal.com/googles-crawl-team-filed-bugs-against-wordpress-plugins/566491/) how to deal with URL parameters automatically to this year Google’s Crawl Team filing bugs Against WordPress plugins saying that the problem with “parameters is that each one creates what appears to be a new URL by adding text”. 
 
-While mainly confronting ecommerce plugins as the source of creating these *new* URLS \- they say, “The crawl waste is often baked into the plugin layer. That creates a real bind for websites   
-with ecommerce plugins. Your crawl problems may not be your fault, but they’re [still your responsibility to manage](https://www.searchenginejournal.com/googles-crawl-team-filed-bugs-against-wordpress-plugins/566491/).”
+While mainly confronting ecommerce plugins as the source of creating these *new* URLS \- they say, “The crawl waste is often baked into the plugin layer. That creates a real bind for websites with ecommerce plugins. Your crawl problems may not be your fault, but they’re [still your responsibility to manage](https://www.searchenginejournal.com/googles-crawl-team-filed-bugs-against-wordpress-plugins/566491/).”
 
 ## This Phenomenon Impacts Google itself
 
 ![][image1]
-
-Above is  directory of 
 
 This is the Sistrix Visibility tool isolated by one directory. [https://developers.google.com/crawling/docs/](https://developers.google.com/crawling/docs/)\*
 
@@ -72,20 +69,21 @@ https://developers.google.com/crawling/docs/crawlers-fetchers/reduce-crawl-rate\
 
 ## While We’re At It \- Grokipedia.com
 
-Recently, Malte Landwehr confirmed that [Grokipedia was no longer cited by ChatGPT](https://www.linkedin.com/posts/landwehr_update-chatgpt-google-dropped-grokipedia-activity-7426564340218187776-dqHE/). Turns out it's not even in Google very much these days.  
+Recently, Malte Landwehr confirmed that [Grokipedia was no longer cited by ChatGPT](https://www.linkedin.com/posts/landwehr_update-chatgpt-google-dropped-grokipedia-activity-7426564340218187776-dqHE/). Turns out it's not even in Google very much these days. 
+
 ![][image3].
 
 Sistrix domain data. Also illustrates a deep drop on the same day 2/2/26.
 
 ![][image4]
 
-Sample page on Grokipedia.com
+Sample page on Grokipedia.com.
 
 ![][image5]
 
 ## Does The General Consensus Hold
 
-Are we going to respond to Google with the same observations that are commonly said to content creators in the site recovery space? That Google needs to work on its SEO and stop exploiting its content just to be cited in AI responses? That Google is putting out content that doesn’t provide value?
+Are we going to respond to Google with the same observations that are commonly said to content creators who find themselves at a loss to explain steep drops or large loss of visibility? Does Google also need to work on its SEO and stop exploiting its content just to be cited in its own AI responses? That Google is putting out content that doesn’t provide value?
 
 ## Why Suspect Table of Contents HTML
 
@@ -93,9 +91,11 @@ I just shared a few of the BIG ones. But this is nothing new.
 
 The new part is we’re just now seeing how this has been impacting some of the largest enterprises over time.
 
-It’s new to know that it's even impacting Google. They aren’t immune from their own system.
+As early as 2023, I could see it in the sites I was working on. Mostly the type of sites I was looking at were affilliate sites.
 
-They have the same jump in the impressions followed eventually by a sharp drop.
+It’s new for me to see that it's even impacting Google. Even Google isn't immune from its own system.
+
+They have the same increase in their impressions followed eventually by a sharp drop.
 
 Since 2023, each time I’ve been presented with a site to diagnose either a paid project or through a comment on social media that I followed up on and was given even just access to the domain name, the presence of Table of Content html was noted. 
 
@@ -124,7 +124,7 @@ One of these is an internal link and one of these is the type of link in the Lis
 
 HyperText Markup Language (HTML) that we use every day is the foundational language used to create and structure the content of web pages. We use tags to organize text, images, and multimedia into elements like headings, paragraphs, and links, acting as the skeleton for web browsers to interpret and display.
 
-## ‘A’ Tags Are HTML That Scream to Crawlers “Come Get Me”
+## ‘A’ Tags Are HTML That Scream to Crawlers Come Get Me!
 
 The \<a\>\</a\> html tags are the fundamental building blocks of web navigation for crawler bots like Googlebot.
 
@@ -151,7 +151,7 @@ In 2023, several URL parameters, particularly on Shopify and other e-commerce pl
 
 ## The Canonical Tag Handles This…Not
 
-As noted earlier, evidence does **NOT** support that assumption once Google deprecated the parameter tool in Search Console April 2022\.
+As noted earlier, evidence does **NOT** support this assumption once Google deprecated the parameter tool in Search Console April 2022\.
 
 ## Duplicate Content Implications
 
@@ -185,7 +185,7 @@ When this response is viewed through the Search console it appears as a “bloom
 
 “In the past 2 years, I reviewed close to fifty sites without access to Search Console data. In each case, they showed a bloom of visibility (impressions) before a significant reduction in the number of ranking queries that [dropped the positions of their canonical pages](https://moz.com/blog/helpful-content-update-lessons) during and after the updates.”
 
-To illustrate this with a sample site from Ray’s original case study, below is a screenshot of the visibility of a webpage I isolated. 
+To illustrate this with one of the sample sites from Ray’s original case study, below is a screenshot of the visibility of an interesting webpage on it. 
 
 I tracked its content alternations loosely by viewing a dozen url snapshots over the past 4 years. 
 
@@ -233,9 +233,9 @@ Visible in Rendered Dom	100 %
 
 I’m going to tell on myself in regards to one aspect. 
 
-Ever since I’ve started looking at TOC jump links through a view of Google’s indexing process, I’ve assumed that if these links did not appear in the source code, a page was safe. Spent the good part of last year trying to create a TOC solution to satisfy that.
+Ever since I’ve started looking at TOC jump links through a view of Google’s indexing process, I’ve assumed that if these links did not appear in the source code, a page was safe. Spent the good part of last year trying to create a TOC solution to satisfy that. Been a breakthrough on that project.
 
-Now I know why it wasn’t working. The links are in DOM, the page(s) are doomed to drop. It's only a matter of time. The only difference is from how high.
+Now I know why it wasn’t working before. The page(s) are doomed to drop. It's only a matter of time. The only difference is from how high.
 
 ## What Could Have Altered To Create The Deep Drop in Visibility in So Many Sites at One Time in February 2026
 
@@ -287,27 +287,36 @@ Grokipedia is the ultimate cautionary tale.
 
 ## A broken canonical attribution system
 
-I used to think and talk about this as a broken canonical attribution system. I no longer think it's broken by accident. Within the HC system, it behaves as a feature not a fault.
+I used to think and talk about this as a broken canonical attribution system. 
 
-This won’t be the last time I write about this because I think it's going to take a while for all of us to come to grips with this. 
+I no longer think it's broken by accident. Within the HC system, it behaves as a feature not a fault.
 
-The danger comes from two directions. On the one end, a trusted and valuable content feature: the table of contents. On the other, Helpful Content, which is still a black box to many. Our assumptions combine in a toxic cocktail believing that TOC could not possibly behave differently than it previously did coupled with the fixation that Helpful Content is literally interpreted as helpful content.
+This won’t be the last time I write about this because I think it's going to take a while for all of us to come to grips with this unimagined reality. 
+
+The danger comes from two directions. 
+
+On the one end, a trusted and valuable content feature: the table of contents. On the other, Helpful Content, which is still a black box to many. Our assumptions about each combine in a toxic cocktail. We continue to believe that TOC could not possibly behave differently than it previously had and couple that with a literal interpretation that Helpful Content content written to be helpful.
 
 It's not your fault.
 
 Truthfully, we do NOT know the real nature of listicles in SERPS because the game is tilted.
 
-I wonder what might happen. 
+I wonder what might happen if moving forward we refuse to give the HCS any excuse to tag our domains with duplicate content.
 
-Perhaps content structure using headers without these TOC links will be cited without risking a false classification of duplicate content. No more getting squeezed out of results by a system that is designed to insist that the canonical is just a suggestion on everything.  
+Perhaps content structure using headers without these TOC links can be cited without risking a false classification of duplicate content. No more getting squeezed out of results by a system that is designed to insist that the canonical is just a suggestion on everything.
+
+
+
 
 You can find me on [Linkedin](https://www.linkedin.com/in/carolynholzman/).
 You can email using my first name  @vizzex.ai
 Go here to get set up to be notified of the [Really Helpful Listicle wordpress plugin](https://reallyhelpfullisticles.com/) 
 
+Catch every episode of [Confessions of An SEO](https://music.amazon.com/podcasts/e4c25d3a-4ca4-449d-8a6a-7f07b42c5413/confessions-of-an-seo%C2%AE) wherever you get podcasts.
 
 
-P.S. For those who like myself can't help themselves from checking everything, the irony is NOT lost on me that Github has #anchors baked into its system. Not my choice, but my responsibility, right Google? Hmmm, maybe this page is my next test!
+
+P.S. For those who like myself can't help themselves from checking everything, the irony is **NOT** lost on me that Github has #anchors baked into its system. Not my choice, but my responsibility, right Google? Hmmm, maybe this page is my next test!
 
 
 [image1]: images/image1.png
