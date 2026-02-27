@@ -1,6 +1,6 @@
 ---
 title: analysis
-description: This is a follow up article providing original analysis concerning the possible Google crackdown on self-serving listicles,  and provides a compelling data-driven alternative explanation which includes data on the same site and adding in Google, Grokipedia to make the case.
+description: This is a follow up article providing additional original analysis concerning the possible Google crackdown on self-serving listicles providing a compelling data-driven alternative explanation to what is driving the loss of visibility for so many.
 ---
 
 # **It’s Not Just Listicles – And That’s The Real Problem**
