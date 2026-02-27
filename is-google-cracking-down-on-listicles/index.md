@@ -301,7 +301,12 @@ I wonder what might happen.
 
 Perhaps content structure using headers without these TOC links will be cited without risking a false classification of duplicate content. No more getting squeezed out of results by a system that is designed to insist that the canonical is just a suggestion on everything.  
 
-P.S. The irony is not lost on me that Github has #anchors baked into its system. Hmmm, maybe this page is my next test!
+You can find me on [Linkedin](https://www.linkedin.com/in/carolynholzman/).
+You can email using my first name  @vizzex.ai
+
+
+
+P.S. For those who like myself can't help themselves from checking everything, the irony is NOT lost on me that Github has #anchors baked into its system. Not my choice, but my responsibility, right Google? Hmmm, maybe this page is my next test!
 
 
 [image1]: images/image1.png
