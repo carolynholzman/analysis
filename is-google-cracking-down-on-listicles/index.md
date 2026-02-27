@@ -1,5 +1,5 @@
 ---
-title: analysis
+title: Is Google cracking down on listicles or something else? Forensic SEO analysis by Carolyn Holzman
 description: This is a follow up article providing additional original analysis concerning the possible Google crackdown on self-serving listicles providing a compelling data-driven alternative explanation to what is driving the loss of visibility for so many.
 ---
 
