@@ -1,5 +1,6 @@
 ---
 title: analysis
+description: This is a follow up article providing original analysis concerning the possible Google crackdown on self-serving listicles,  and provides a compelling data-driven alternative explanation which includes data on the same site and adding in Google, Grokipedia to make the case.
 ---
 
 # **It’s Not Just Listicles – And That’s The Real Problem**
@@ -317,6 +318,7 @@ P.S. The irony is not lost on me that Github has #anchors baked into its system.
 
 
 [image7]: images/image7.png
+
 
 
 
