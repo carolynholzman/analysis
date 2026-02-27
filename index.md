@@ -1,3 +1,7 @@
+---
+title: analysis
+---
+
 # **It’s Not Just Listicles – And That’s The Real Problem**
 
 Why? The same patterns affecting listicles are baked into how many sites and even Google itself structure their content.
@@ -308,5 +312,6 @@ Perhaps content structure using headers without these TOC links will be cited wi
 [image5]: images/image5.png
 
 [image6]: images/image6.png
+
 
 [image7]: images/image7.png
