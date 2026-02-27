@@ -303,6 +303,7 @@ Perhaps content structure using headers without these TOC links will be cited wi
 
 You can find me on [Linkedin](https://www.linkedin.com/in/carolynholzman/).
 You can email using my first name  @vizzex.ai
+Go here to get set up to be notified of the [Really Helpful Listicle wordpress plugin](https://reallyhelpfullisticles.com/) 
 
 
 
