@@ -272,7 +272,7 @@ During the after phase of the December 2025 Core Update, most likely Google adju
 
 I have no doubt that part of this *Perfect Storm* includes AI discernment but not as has been suggested from a selective *content quality* discovered to exploit SERP and AI‑answer behavior assessment.
 
-There are many individual pages which are not “listicles” that suffered visibility declines. e.g. Google’s developer document directory, Grokipedia, Ahrefs blog etc.  The enterprise sites that contain **MORE** of these TOC/Listicle links on more of their pages, according to visibility date, have been feeling this loss of visibility for a longer time than just the beginning of February.
+There are many individual pages which are not “listicles” that suffered visibility declines. e.g. Google’s developer document directory, Grokipedia, Ahrefs blog etc.  The enterprise sites that contain **MORE** of these TOC/Listicle links on more of their pages, according to visibility data, have been feeling this loss of visibility for a longer period time than just the beginning of February.
 
 ![][image8] 
 
