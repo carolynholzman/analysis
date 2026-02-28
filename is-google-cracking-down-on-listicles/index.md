@@ -35,9 +35,9 @@ In short, it was not limited to self-serving listicles.
 
 ## Arrived at Different Conclusion as to Cause of Visibility Decline 
 
-What we have witnessed impacts more than only self-serving listicles and is across a broader scope of article formats. While we have reached new territory with AI in terms of how search is satisfied, why is it less likely that this sharp decline could also be caused by a system in which the [canonical is now a suggestion](https://searchengineland.com/guide/canonical-urls)?
+What we have witnessed impacts more than only self-serving listicles and is across a broader scope of article formats. While we have reached new territory with AI in terms of how search is satisfied, why is it less likely that this sharp decline could also be triggered by a system in which the [canonical is now a suggestion](https://searchengineland.com/guide/canonical-urls)?
 
-If we game out what would happen if same-page jump links were treated as individual pages and no longer attributed to the main web page canonical, THIS is what that would look like: 
+If we game out what would happen if same-page jump links were treated as individual pages and no longer attributed to the main web page canonical, **THIS** is what that would look like: 
 
 Duplicate content everywhere getting suppressed either with a smaller and smaller query footprint until, in some cases, the page is completely washed out of the live index.
 
@@ -81,13 +81,28 @@ Sample page on Grokipedia.com.
 
 ![][image5]
 
+## Growing Claims Scaled Use of Automated AI Content is Killing Sites Unfounded
+
+Over the past week as I was collecting and comparing data for this report, increasingly new reports emerged from respectable sources claiming sites using [automated AI generated content](https://peec.ai/blog/the-real-risk-of-ai-generated-content) are responsible for their own destruction in visibility.
+
+Explaining “How AI content sites lose visibility” - they describe a familiar experience of short term surge in traffic, gaining traction only to “see substantial declines” later and in this most recent episode enterprise sites in early February.
+
+Grokipedia is used as such an example. And yet, there is another reasonable explanation.
+
+
 ## Does The General Consensus Hold
 
-Are we going to respond to Google with the same observations that are commonly said to content creators who find themselves at a loss to explain steep drops or large loss of visibility? Does Google also need to work on its SEO and stop exploiting its content just to be cited in its own AI responses? That Google is putting out content that doesn’t provide value?
+Are we going to respond to Google with the same observations that are commonly said to content creators in the site recovery space? 
+
+The same thing that happened to Grokipedia is actively happening to Google’s visibility. Same pattern. Same timeframe.
+
+If both Google and Grokipedia experience a similar “bloom” of impressions followed by drastic declines, and no one is accusing Google of recklessly scaling AI content creation, then how can we point our fingers at Grokipedia? Or Shopify? Or Elementor? Or UpClick? Or DataFeedWatch? Or UserPilot?
+
+If Google experiences the same, does that mean Google needs to work on its SEO and stop exploiting its content just to be cited in AI responses? Does this also mean that Google is putting out content that doesn’t provide value?
 
 ## Why Suspect Table of Contents HTML
 
-I just shared a few of the BIG ones. But this is nothing new.
+While I share a few of the BIG ones, this loss of visibility is nothing new, at least since the appearance of the Helpful Content System in 2022.
 
 The new part is we’re just now seeing how this has been impacting some of the largest enterprises over time.
 
@@ -109,18 +124,18 @@ Each of the jump links (fragment links, anchor links etc) is formed by adding to
 
 They look something like this:
 
-\<li\>\<a href="\#keyword-or-number-here"\>Shirts\</a\>\</li\>
+**\<li\>\<a href="\#keyword-or-number-here"\>Shirts\</a\>\</li\>**
 
 The same intention and function is also in this expression of a sidebar widget.
 
-\<a href="\#02"\>What products are trending right now?\</a\>
+**\<a href="\#02"\>What products are trending right now?\</a\>**
 
 ## Are These Really Links
 
 One of these is an internal link and one of these is the type of link in the Listicle/TOC.
 
-\<a href="/inner-page-link"\>keyword here\</a\>  
-\<a href="\#02"\>What products are trending right now?\</a\>
+**\<a href="/inner-page-link"\>keyword here\</a\>**  
+**\<a href="\#02"\>What products are trending right now?\</a\>**
 
 HyperText Markup Language (HTML) that we use every day is the foundational language used to create and structure the content of web pages. We use tags to organize text, images, and multimedia into elements like headings, paragraphs, and links, acting as the skeleton for web browsers to interpret and display.
 
@@ -155,7 +170,9 @@ As noted earlier, evidence does **NOT** support this assumption once Google depr
 
 ## Duplicate Content Implications
 
-Starting in 2024, I’ve observed in various search console data for sites that showed an increase of impressions without increase in clicks, that if I didn’t know better, I’d say that Google started treating these jump link URLs separately from the canonical URL.
+Starting in 2024 and now being seen in enterprise sites, I’ve observed various search console datasets for sites that showed an increase of impressions without increase in clicks. 
+
+If I didn’t know better, I’d say that Google began treating these jump link URLs separately from the canonical URL once the Helpful Content Classifier went into full swing.
 
 At a [Google Creator Summit in Washington, DC in September 2025](https://tomikoharvey.com/google-creator-summit-review/), one of the participants shared: 
 
@@ -187,7 +204,7 @@ When this response is viewed through the Search console it appears as a “bloom
 
 To illustrate this with one of the sample sites from Ray’s original case study, below is a screenshot of the visibility of an interesting webpage on it. 
 
-I tracked its content alternations loosely by viewing a dozen url snapshots over the past 4 years. 
+I tracked its content alterations loosely by viewing a dozen url snapshots over the past 4 years. 
 
 Published on April 22, 2022, table of contents appears to have been added to the article ([archive.org](http://archive.org)) and the upward trajectory after that is undeniable.
 
@@ -199,9 +216,9 @@ Likewise, the recent deep drop in visibility is equally undeniable in early Febr
 
 How can that be? 
 
-But there is a price to be paid by the duplicate content Google’s HC perceives. The duplicate content is not a true condition of the site. It's just a false narrative courtesy of the HC system. All those *duplicate pages* focused on different, varying grouping of related queries. That’s the mechanism that powered the increase in impressions.
+There seems to be a price to be paid by the duplicate content Google’s HC perceives. The duplicate content is not a true condition of the site. It's just a false narrative courtesy of the HC system. All those *duplicate pages* focused on different, varying grouping of related queries. That’s most likely the mechanism that powered the increase in impressions.
 
-The canonical page competes with the TOC generated URLs which are behaving like separate pages.
+The canonical page competes with each of the TOC generated URLs which are behaving like separate pages.
 
 (Ironically, there’s a page on an enterprise SEO software site about cannibalized pages that is cannibalized in the data. Oh, and it contains TOC links on the page as well.) Image below.
 
@@ -239,15 +256,17 @@ Now I know why it wasn’t working before. The page(s) are doomed to drop. It's 
 
 ## What Could Have Altered To Create The Deep Drop in Visibility in So Many Sites at One Time in February 2026
 
-Based on this information compared to the drop of performance and WHEN they experienced that drop, I suspect that Google has ALWAYS been able to see any jump links. Which was frustrating when we saw some content using TOC/Listicle links disappear while other (mostly enterprise) sites use them with impunity.
+Based on this information compared to the drop of performance and WHEN they experienced that drop, I suspect that Google has **ALWAYS** been able to see these jump links and decided to lower the tolerance level for them. That could explain why we saw some content using TOC/Listicle links disappear while other (mostly enterprise) sites used them with impunity.
 
-During the after phase of the December Core Update, likely Google adjusted the tolerance level for domains (including themselves apparently) that seemed to contain massive amounts of duplicate content. Again, a false narrative but one that IMHO the AI-guided Helpful Content Classifier believed to be true.
+During the after phase of the December 2025 Core Update, most likely Google adjusted the tolerance level for domains (including themselves apparently) that seemed to contain massive amounts of duplicate content. Again, a false narrative but one that IMHO the AI-guided Helpful Content Classifier believed to be true.
 
 ## Where Conclusions Meet and Diverge
 
-I have no doubt that part of this *Perfect Storm* includes AI but not from a selective *content quality* discovered to exploit SERP and AI‑answer behavior assessment.
+I have no doubt that part of this *Perfect Storm* includes AI discernment but not as has been suggested from a selective *content quality* discovered to exploit SERP and AI‑answer behavior assessment.
 
-There are many individual pages that are not “listicles” that suffer visibility declines. The enterprise sites that contain MORE of these TOC/Listicle links on more of their pages according to visibility date have been feeling this loss of visibility for a long time.
+There are many individual pages which are not “listicles” that suffer visibility declines. e.g. Google’s developer document directory, Grokipedia, Ahrefs blog etc.  The enterprise sites that contain **MORE** of these TOC/Listicle links on more of their pages according to visibility date have been feeling this loss of visibility for a long time.
+
+![][image8] 
 
 ## Classic Helpful Content Response 
 
@@ -338,7 +357,7 @@ P.S. For those who like myself can't help themselves from checking everything, t
 
 [image7]: images/image7.png
 
-
+[image8]: images/image8.png
 
 
 
