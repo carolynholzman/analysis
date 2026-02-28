@@ -43,7 +43,7 @@ Observations reveal a bigger and more profound impact on a wider range of articl
 
 While we have reached new territory with AI in terms of how search is satisfied, two things can be present and not be related. Specifically, sites can be scaling AI written content AND experience a decline without those having to be related to each other. 
 
-Given the fact that these declines appear to impact sites **NOT** scaling AI written content, another possible culprit appears to be in play that can explain common experience for those scaling or not AI written content. 
+Given the fact that these declines appear to impact sites **NOT** scaling AI written content, another possible culprit appears to be in play which can explain the common experience for both those scaling and those not scaling AI written content. 
 
 # The Canonical As A Suggestion
 
