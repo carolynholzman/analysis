@@ -340,7 +340,7 @@ Deep beliefs that TOC could not possibly behave differently than it has historic
 
 # Are Listicles That Good Or Should We Toss Them
 
-Truthfully, we do NOT yet know the real nature of listicles in SERPS because the game is tilted. We can’t separate the SERP effects of the power of the true power of a listicle if its very html structure gives short term thrills and long term pain.
+Truthfully, we do NOT yet know the real nature of listicles in SERPS because the game is tilted. We can’t separate out what the true SERP effects are if within its very html structure there is an element that brings short term thrills and long term pain.
 
 I wonder what might happen if if we let the semantic HTML of headers do the talking.
 
