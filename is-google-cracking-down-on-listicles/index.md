@@ -334,9 +334,11 @@ On the one end, a trusted and valuable content feature: the table of contents.
 
 On the other, (un)Helpful Content, which to many is still a black box.
 
-Our assumptions about each combine into a toxic cocktail. Deep beliefs that TOC could not possibly behave differently than it has historically coupled that with a literal interpretation of Helpful Content to be content that is written to be helpful has brought havoc to the SERPs.
+Our assumptions about each combine into a toxic cocktail. 
 
-It's not your fault.
+Deep beliefs that TOC could not possibly behave differently than it has historically coupled with a literal interpretation of Helpful Content has brought havoc to the SERPs and small businesses. Only now, the pain is shared a little more when its all of us, including Google itself.
+
+# Are Listicles That Good Or Should We Toss Them
 
 Truthfully, we do NOT yet know the real nature of listicles in SERPS because the game is tilted. We can’t separate the SERP effects of the power of the true power of a listicle if its very html structure gives short term thrills and long term pain.
 
