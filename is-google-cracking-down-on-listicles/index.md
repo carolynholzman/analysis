@@ -265,7 +265,7 @@ I know from testing, that the reason AI cites them is NOT because they have the 
 
 The reason they are cited is because if you look at the code, these are H2s that are hyperlinked to jump.
 
-AI would cite your content if you just had the H2s alone The header structures are what makes it easy for LLMs to spend the tokens on your content.
+AI would cite your content if you just had the H2s alone! The header structures are what makes it easy for LLMs to spend the tokens on your content.
 
 In fact, my indexation testing data indicates that Google is LESS inclined to index content that isn’t set up with header structures LIKE what you see in what we call listicles. They aren’t going to spend the resources on a wall of content.
 
