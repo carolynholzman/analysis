@@ -186,7 +186,7 @@ Starting in 2024 and now being seen in enterprise sites, I’ve observed various
 
 If I didn’t know better, I’d say that Google began treating these jump link URLs separately from the canonical URL once the Helpful Content Classifier went into full swing.
 
-At a [Google Creator Summit in Washington, DC in September 2025](https://tomikoharvey.com/google-creator-summit-review/), one of the participants shared: 
+At a closed door event a [Google Creator Summit in Washington, DC in September 2025](https://tomikoharvey.com/google-creator-summit-review/), one of the participants shared: 
 
 #### **Your Table of Contents Might Be Hurting You**
 
@@ -200,7 +200,7 @@ Previously I had considered that **IF** Google was treating these \#anchor links
 
 It became clear and undeniable that there is correlation between the presence of Table of Content features and the slow reduction in visibility of those pages and then with enough of those pages, the entire site.
 
-Duplicate content within the same domain would be obvious in a system where AI-guided topical assessments such as what Helpful Content performs a [horizontal content analysis](https://vizzex.ai/how-does-horizontal-content-analysis-differ-from-vertical-analysis/). Google no longer judges a single page in isolation but now also against other pages on the site to form a score for [siteFocus and siteRadius](https://www.hobo-web.co.uk/the-google-content-warehouse-leak-2024/) which we gleaned from the leak Google's api content warehouse in May 2024, two weeks after I published my findings.
+Duplicate content within the same domain would be obvious in a system where AI-guided topical assessments such as what Helpful Content performs a [horizontal content analysis](https://vizzex.ai/how-does-horizontal-content-analysis-differ-from-vertical-analysis/). Google no longer judges a single page in isolation but now also against other pages on the site to form a score for [siteFocus and siteRadius](https://www.hobo-web.co.uk/the-google-content-warehouse-leak-2024/) which we gleaned from the leak of a document containing Google's api content warehouse in May 2024, two weeks after I published my findings.
 
 The timing of the new ability for Google to perform such an analysis was felt most dramatically during the Sept 2023 standalone Helpful Content Update. All those HC rules and systems were rolled into the Core Algorithm by March 2024\.
 
