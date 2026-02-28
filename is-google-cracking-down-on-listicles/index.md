@@ -352,6 +352,8 @@ Recognizing a system designed to insist that the canonical is *just a suggestion
 
 More to come.
 
+####################################################
+
 
 You can follow/find me on [Linkedin](https://www.linkedin.com/in/carolynholzman/).
 
