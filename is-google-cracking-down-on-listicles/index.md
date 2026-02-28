@@ -348,7 +348,7 @@ Being able to identify the mechanism responsible for the site content of any bus
 
 Recognizing a system designed to insist that the canonical is *just a suggestion* on anything is our first progressive step to stem the tide.
 
-More to come. F
+More to come.
 
 
 You can follow/find me on [Linkedin](https://www.linkedin.com/in/carolynholzman/).
