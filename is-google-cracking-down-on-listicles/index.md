@@ -264,7 +264,7 @@ Visible in Rendered Dom	100 %
 
 ## What Could Have Altered To Create The Deep Drop in Visibility in So Many Sites at One Time in February 2026
 
-Based on this information compared to the drop of performance and WHEN they experienced that drop, I suspect that Google has **ALWAYS** been able to see these jump links and decided to lower the tolerance level for them. That could explain why in the beginning of this monunmental shift we saw some content using TOC/Listicle links disappear while other (mostly enterprise) sites used them with seemingly impunity.
+Based on this information compared to the drop of performance and WHEN they experienced that drop, I suspect that Google has **ALWAYS** been able to see these jump links and decided to lower the tolerance level for their presence. That could explain why in the beginning of this monumental shift we saw some content using TOC/Listicle links disappear while other (mostly enterprise) sites used them with seemingly impunity.
 
 During the after phase of the December 2025 Core Update, most likely Google adjusted the tolerance level for domains (including themselves apparently) that seemed to contain massive amounts of duplicate content. Again, a false narrative but one that IMHO the AI-guided Helpful Content Classifier believed to be true.
 
