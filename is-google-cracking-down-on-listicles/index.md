@@ -39,11 +39,11 @@ In short, it was not limited to self-serving listicles.
 
 ## Arrived at Different Conclusion as to Cause of Visibility Decline 
 
-What we have witnessed impacts far more and to a greater degree than only self-serving listicles across a broader scope of article formats. 
+Observations reveal a bigger and more profound impact on a wider range of article styles than just self-serving listicles.
 
 While we have reached new territory with AI in terms of how search is satisfied, two things can be present and not be related. Specifically, sites can be scaling AI written content AND experience a decline without those having to be related to each other. 
 
-Given the fact that these declines appear to impact sites **NOT** scaling AI written content, another possible culprit might be in play. 
+Given the fact that these declines appear to impact sites **NOT** scaling AI written content, another possible culprit appears to be in play that can explain common experience for those scaling or not AI written content. 
 
 # The Canonical As A Suggestion
 
@@ -108,7 +108,7 @@ Are we going to respond to Google with the same observations that are commonly s
 
 The same thing that happened to Grokipedia is actively happening to Google’s visibility. Same pattern. Same timeframe.
 
-If both Google and Grokipedia experience a similar “bloom” of impressions followed by drastic declines, and no one is accusing Google of recklessly scaling AI content creation, then how can we point our fingers at Grokipedia? Or Shopify? Or Elementor? Or UpClick? Or DataFeedWatch? Or UserPilot?
+If both Google and Grokipedia experience a similar “bloom” of impressions followed by drastic declines, if no one is accusing Google of recklessly scaling AI content creation, then how can we point our fingers at Grokipedia? Or Shopify? Or Elementor? Or UpClick? Or DataFeedWatch? Or UserPilot?
 
 If Google experiences the same, does that mean Google needs to work on its SEO and stop exploiting its content just to be cited in AI responses? Does this also mean that Google is putting out content that doesn’t provide value?
 
@@ -118,9 +118,9 @@ While I share a few of the BIG ones, this loss of visibility is nothing new, at 
 
 The new part is we’re just now seeing how this has been impacting some of the largest enterprises over time.
 
-As early as 2023, I could see it in the sites I was working on. Mostly the type of sites I was looking at were affilliate sites.
+As early as 2023, I could see it in the sites I was working on. Mostly the type of sites I was looking at were affilliate sites. They were the ones who initially experienced the most dramatic of Helpful Content hits. Table of Contents format is a staple of that type of site.
 
-It’s new for me to see that it's even impacting Google. Apparently even Google isn't immune from its own system.
+It is new for me to see that it's even impacting Google. I was very surprised. Apparently even Google isn't immune from its own system.
 
 They have the same increase in their impressions followed eventually by a sharp drop.
 
@@ -165,10 +165,10 @@ We have no evidence that any crawling system can distinguish between a link to a
 
 This is what a google crawling system fetcher sees when it hits TOC/Listicles. Links. Links. And more links.
 
-https://domain.com/\#01Jumplink  
-https://domain.com/\#02Jumplink  
-https://domain.com/\#03Jumplink  
-https://domain.com/\#04Jumplink
+https://domain.com/#01Jumplink  
+https://domain.com/#02Jumplink  
+https://domain.com/#03Jumplink  
+https://domain.com/#04Jumplink
 
 Each one of these can be treated as a separate URL that leads to the same page of content.
 
@@ -178,7 +178,7 @@ In 2023, several URL parameters, particularly on Shopify and other e-commerce pl
 
 ## The Canonical Tag Handles This…Not
 
-As noted earlier, events and evidence does **NOT** support this assumption once Google deprecated the parameter tool in Search Console April 2022\.
+As noted earlier, events and evidence do **NOT** support this assumption once Google deprecated the parameter tool in Search Console April 2022\.
 
 ## Duplicate Content Implications
 
@@ -228,7 +228,9 @@ Likewise, the recent deep drop in visibility is equally undeniable in early Febr
 
 How can that be? 
 
-There seems to be a price to be paid by the duplicate content Google’s HC perceives. The duplicate content is not a true condition of the site. It's just a false narrative courtesy of the HC system. All those *duplicate pages* focused on different, varying grouping of related queries. That’s most likely the mechanism that powered the increase in impressions.
+There seems to be a price to be paid by the duplicate content Google’s HC perceives. The duplicate content is not a true condition of the site. It's just a false narrative courtesy of the HC system. 
+
+Additionally, all those *duplicate pages* focused on different, varying grouping of related queries related to their associated header structure. Those expanded queries based on the headers was most likely the mechanism that powered the subsequent increase in impressions. This appears in analysis tools as increased visibility.
 
 The canonical page competes with each of the TOC generated URLs which are behaving like separate pages.
 
@@ -240,7 +242,7 @@ When TOC generated pages appear to be tagged as *unhelpful* content, they begin 
 
 With those pages go all the *extra* queries which were driving the jump in impressions in data.
 
-The decline in visibility can be alternately expressed as when the number of queries attached to a page condenses. The page could be findable, maybe even on page 1\. On enterprise sites they could still be somewhere on page 1, for smaller sites the reduction can prove a catastrophic end of business.
+The decline in visibility can be alternately expressed as when the number of queries attached to a page condenses. The page could be findable, maybe even on page 1. For enterprise sites they could still by virture of their size be somewhere on page 1, for smaller sites the reduction can and did result in a catastrophic end of business.
 
 ## Exactly where are these “links” placed to tempt crawlers?
 
@@ -250,7 +252,7 @@ There are three locations.
 * In the source code \- Google and LLM  
 * In the rendered DOM (Document Object Model) \- Google
 
-## What Was Consistent in The Data on Sites Ray’s Case Study
+## What Was Consistent in The Data for Sites In Ray’s Case Study
 
 In each case I confirmed over 10 pages per site, if jump links were visible in any of these three areas. 
 
@@ -260,15 +262,9 @@ Visible on the Page 		100 %
 Visible in Source Code 	  75 %   
 Visible in Rendered Dom	100 % 
 
-I’m going to tell on myself in regards to one aspect. 
-
-Ever since I’ve started looking at TOC jump links through a view of Google’s indexing process, I’ve assumed that if these links did not appear in the source code, a page was safe. Spent the good part of last year trying to create a TOC solution to satisfy that. Been a breakthrough on that project.
-
-Now I know why it wasn’t working before. The page(s) are doomed to drop. It's only a matter of time. The only difference is from how high.
-
 ## What Could Have Altered To Create The Deep Drop in Visibility in So Many Sites at One Time in February 2026
 
-Based on this information compared to the drop of performance and WHEN they experienced that drop, I suspect that Google has **ALWAYS** been able to see these jump links and decided to lower the tolerance level for them. That could explain why we saw some content using TOC/Listicle links disappear while other (mostly enterprise) sites used them with impunity.
+Based on this information compared to the drop of performance and WHEN they experienced that drop, I suspect that Google has **ALWAYS** been able to see these jump links and decided to lower the tolerance level for them. That could explain why in the beginning of this monunmental shift we saw some content using TOC/Listicle links disappear while other (mostly enterprise) sites used them with seemingly impunity.
 
 During the after phase of the December 2025 Core Update, most likely Google adjusted the tolerance level for domains (including themselves apparently) that seemed to contain massive amounts of duplicate content. Again, a false narrative but one that IMHO the AI-guided Helpful Content Classifier believed to be true.
 
@@ -276,36 +272,33 @@ During the after phase of the December 2025 Core Update, most likely Google adju
 
 I have no doubt that part of this *Perfect Storm* includes AI discernment but not as has been suggested from a selective *content quality* discovered to exploit SERP and AI‑answer behavior assessment.
 
-There are many individual pages which are not “listicles” that suffer visibility declines. e.g. Google’s developer document directory, Grokipedia, Ahrefs blog etc.  The enterprise sites that contain **MORE** of these TOC/Listicle links on more of their pages according to visibility date have been feeling this loss of visibility for a long time.
+There are many individual pages which are not “listicles” that suffered visibility declines. e.g. Google’s developer document directory, Grokipedia, Ahrefs blog etc.  The enterprise sites that contain **MORE** of these TOC/Listicle links on more of their pages, according to visibility date, have been feeling this loss of visibility for a longer time than just the beginning of February.
 
 ![][image8] 
 
-This is the past year visibility for the blog section of an enterprise site that is not known for abusing AI created content. It's getting challenging for the logic to hold that such declines in visibility signal are the general sign of abusing the use of AI generated content.
+This is the past year visibility for the blog section of an enterprise site that is recognized for **NOT** abusing AI created content. It's getting challenging for the logic to hold that the presence of a decline like this in visibility signal is the confirmational signal of abusing the use of AI generated content.
 
-In the case above, the TOC links were used for general content purposes.
+In the case above, the TOC links in their blog content were used for general content purposes.
 
-The enterprise sites which contain **MORE** of these TOC/Listicle links on more of their pages according to visibility date have been feeling this loss of visibility for a long time.
-
-New sites that started up in recent months are publishing articles claiming “The AI Did It To These Other Sites” while using TOC links themselves. Regrettably, it is only a matter of time before they themselves will experience the rise and fall in their visibility.
-
+New sites for enterprise business that started up in recent months are publishing articles claiming *“The AI Did It To These Other Sites”* while using TOC links themselves. I regret to say that it is only a matter of time before they themselves will experience the rise and fall in their visibility.
 
 ## Classic Helpful Content Response 
 
-I have an analysis paper that I published (paid) in Spring of 2024 which details how I arrived at the conclusion that [Helpful Content System is topical in nature](https://www.americanwaymedia.com/decoding-googles-helpful-content-system/) and classifies domains by measuring the semantic meaning of all pages as a collection in relation to each other.
+I have an analysis paper published (paid) in Spring of 2024 which details how I arrived at the conclusion that [Helpful Content System is topical in nature](https://www.americanwaymedia.com/decoding-googles-helpful-content-system/) and classifies domains by measuring the semantic meaning of all pages as a collection in relation to each other.
 
-But other than identify that, I could not find an SEO tool that could easily run a horizontal analysis.
+But other than identify that behavior, I could not find an SEO tool that could easily run a horizontal analysis on existing content.
 
 I have now. And full disclosure I’m a partner in [VizzEx](https://vizzex.ai) and shaping it with my understanding of what HC measures.
 
 ## Are Listicles and Pages with TOC Links Doomed?
 
-The love affair with listicles is because of how often they are seen cited in AI. Here’s where I think the fun begins. 
+The love affair with listicles begins and ends because of how often articles **WITH** TOC/listicle links are seen cited in AI. 
 
-I know from testing, that the reason AI cites them is NOT because they have the TOC html.
+An exciting aspect that I know from testing this, the reason AI cites them is NOT because they have the TOC html.
 
-The reason they are cited is because if you look at the code, these are H2s that are hyperlinked to jump.
+The reason they are cited is because if you look at the code, there are H2s set up to jump but headers are part of the semantic html. They send a topical message.
 
-AI would cite your content if you just had the H2s alone! The header structures are what makes it easy for LLMs to spend the tokens on your content.
+AI would cite content with just the H2s alone! The header structures are what makes it easy for LLMs to spend the tokens on your content.
 
 In fact, my indexation testing data indicates that Google is LESS inclined to index content that isn’t set up with header structures LIKE what you see in what we call listicles. They aren’t going to spend the resources on a wall of content. If Google doesn’t have it in their index, there goes all the potential LLM citations.
 
@@ -315,6 +308,8 @@ Now whether you do listicles using TOC links or not is your business, literally.
 
 But doing them solely to get cited is starting your domain down a path where Grokipedia and even Google find themselves.
 
+# What February 2026 Revealed To Us
+
 Your authority won’t save you. Writing them as a human won't save you. 
 
 If you use TOC in its current form and flood your domain with them to ensure you get cited in LLMs or even just out of habit, you **will** experience a short term gain. 
@@ -323,13 +318,13 @@ But then you will pay the piper when your content is slowly or suddenly squeezed
 
 All indications point towards Google’s index as the source of many LLMs, specifically ChatGPT. So eventually your content because it gets pushed out of Google’s index, can’t get cited by those LLMs that use it.. 
 
-Grokipedia is the ultimate cautionary tale.
+Grokipedia is the ultimate cautionary tale. (But not the way some think it is) 
 
 ## A broken canonical attribution system
 
 I used to think and talk about this phenomenon as a broken canonical attribution system. 
 
-I no longer think it's broken by accident. Within the HC system, it behaves as a feature not a fault.
+I no longer think it's broken by accident. Within the HC system, it behaves as a feature not a fault. Google's crawling system may function within the system, but their HD classifier does not.
 
 This won’t be the last time I write about this because I think it's going to take a while for all of us to come to grips with this unimagined reality. 
 
@@ -339,32 +334,32 @@ On the one end, a trusted and valuable content feature: the table of contents.
 
 On the other, (un)Helpful Content, which to many is still a black box.
 
-Our assumptions combine into a toxic cocktail. Deep beliefs that TOC could not possibly behave differently than it has historically and couple that with a literal interpretation of Helpful Content to be content that is written to be helpful.
+Our assumptions about each combine into a toxic cocktail. Deep beliefs that TOC could not possibly behave differently than it has historically coupled that with a literal interpretation of Helpful Content to be content that is written to be helpful has brought havoc to the SERPs.
 
 It's not your fault.
 
-Truthfully, we do NOT know the real nature of listicles in SERPS because the game is tilted. We can’t separate the SERP effects of the power of the true power of a listicle if its very html structure gives short term thrills and long term pain.
+Truthfully, we do NOT yet know the real nature of listicles in SERPS because the game is tilted. We can’t separate the SERP effects of the power of the true power of a listicle if its very html structure gives short term thrills and long term pain.
 
 I wonder what might happen if if we let the semantic HTML of headers do the talking.
 
 Perhaps content structure using headers without these TOC links will continue to be cited by LLMs without risking a false classification of duplicate content by the Helpful Content System. 
 
-Being able to identify the mechanism responsible for content for businesses of any size getting squeezed out of search results is priceless.
+Being able to identify the mechanism responsible for the site content of any business size getting squeezed out of search results is priceless.
 
 Recognizing a system designed to insist that the canonical is *just a suggestion* on anything is our first progressive step to stem the tide.
 
+More to come. F
 
 
-
-You can find me on [Linkedin](https://www.linkedin.com/in/carolynholzman/).
+You can follow/find me on [Linkedin](https://www.linkedin.com/in/carolynholzman/).
 You can email using my first name  @vizzex.ai
-Go here to get set up to be notified of the [Really Helpful Listicle wordpress plugin](https://reallyhelpfullisticles.com/) 
+Go here to be first notified of the [Really Helpful Listicle wordpress plugin](https://reallyhelpfullisticles.com/) 
 
 Catch every episode of [Confessions of An SEO](https://music.amazon.com/podcasts/e4c25d3a-4ca4-449d-8a6a-7f07b42c5413/confessions-of-an-seo%C2%AE) wherever you get podcasts.
 
 
 
-P.S. For those who like myself can't help themselves from checking everything, the irony is **NOT** lost on me that Github has #anchors baked into its system. Not my choice, but my responsibility, right Google? Hmmm, maybe this page is my next test!
+P.S. For those like myself who can't help themselves from checking everything, the irony is **NOT** lost on me that Github has #anchors baked into its system. Not my choice, but my responsibility, right Google? Hmmm, maybe this page is my next test!
 
 
 [image1]: images/image1.png
