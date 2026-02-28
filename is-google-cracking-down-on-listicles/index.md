@@ -242,7 +242,7 @@ When TOC generated pages appear to be tagged as *unhelpful* content, they begin 
 
 With those pages go all the *extra* queries which were driving the jump in impressions in data.
 
-The decline in visibility can be alternately expressed as when the number of queries attached to a page condenses. The page could be findable, maybe even on page 1. For enterprise sites they could still by virture of their size be somewhere on page 1, for smaller sites the reduction can and did result in a catastrophic end of business.
+The decline in visibility can be alternately expressed as when the number of queries attached to a page condenses. The page could be findable, maybe even on page 1. For enterprise sites they could still by virture of their size be somewhere on page 1, for smaller sites the reduction can and, for many, did result in a catastrophic end of business.
 
 ## Exactly where are these “links” placed to tempt crawlers?
 
