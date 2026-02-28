@@ -295,7 +295,11 @@ This won’t be the last time I write about this because I think it's going to t
 
 The danger comes from two directions. 
 
-On the one end, a trusted and valuable content feature: the table of contents. On the other, Helpful Content, which is still a black box to many. Our assumptions about each combine in a toxic cocktail. We continue to believe that TOC could not possibly behave differently than it previously had and couple that with a literal interpretation that Helpful Content content written to be helpful.
+On the one end, a trusted and valuable content feature: the table of contents. 
+
+On the other, Helpful Content, which is still a black box to many. 
+
+Our assumptions about each combine into a toxic cocktail. We continue to believe that TOC could not possibly behave differently than it has historically and couple that with a literal interpretation that Helpful Content is content that is written to be helpful.
 
 It's not your fault.
 
