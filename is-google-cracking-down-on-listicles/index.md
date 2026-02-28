@@ -316,13 +316,13 @@ If you use TOC in its current form and flood your domain with them to ensure you
 
 But then you will pay the piper when your content is slowly or suddenly squeezed out of Google’s index because the HC or rather UN-helpful content tag is on the accidental duplicate content they create. 
 
-All indications point towards Google’s index as the source of many LLMs, specifically ChatGPT. So eventually your content because it gets pushed out of Google’s index, can’t get cited by those LLMs that use it.. 
+All indications point towards Google’s index as the source of many LLMs, specifically ChatGPT. So eventually your content because it gets pushed out of Google’s index, can’t get cited by those LLMs that use it. 
 
-Grokipedia is the ultimate cautionary tale. (But not the way some think it is) 
+Grokipedia is the ultimate cautionary tale. (But not the way some think it is.) 
 
 ## A broken canonical attribution system
 
-I used to think and talk about this phenomenon as a broken canonical attribution system. 
+I used to think and talk about this phenomenon as being a broken attribution system. 
 
 I no longer think it's broken by accident. Within the HC system, it behaves as a feature not a fault. Google's crawling system may function within the system, but their HD classifier does not.
 
