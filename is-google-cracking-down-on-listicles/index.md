@@ -47,7 +47,7 @@ Given the fact that these declines appear to impact sites **NOT** scaling AI wri
 
 # The Canonical As A Suggestion
 
-What we are seeing could also be triggered by a system in which the [canonical is now a suggestion](https://searchengineland.com/guide/canonical-urls)?
+What we are seeing could also be triggered by a system in which the [canonical is now a suggestion](https://searchengineland.com/guide/canonical-urls).
 
 If we game out what would happen if same-page jump links even where a rel=canonical tag is present become treated as individual pages and no longer attributed to the main web page canonical, **THIS** is what that would look like: 
 
