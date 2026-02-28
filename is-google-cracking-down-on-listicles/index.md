@@ -268,6 +268,15 @@ There are many individual pages which are not “listicles” that suffer visibi
 
 ![][image8] 
 
+This is the past year visibility for the blog section of an enterprise site that is not known for abusing AI created content. It's getting challenging for the logic to hold that such declines in visibility signal are the general sign of abusing the use of AI generated content.
+
+In the case above, the TOC links were used for general content purposes.
+
+The enterprise sites which contain **MORE** of these TOC/Listicle links on more of their pages according to visibility date have been feeling this loss of visibility for a long time.
+
+New sites that started up in recent months are publishing articles claiming “The AI Did It To These Other Sites” while using TOC links themselves. Regrettably, it is only a matter of time before they themselves will experience the rise and fall in their visibility.
+
+
 ## Classic Helpful Content Response 
 
 I have an analysis paper that I published (paid) in Spring of 2024 which details how I arrived at the conclusion that [Helpful Content System is topical in nature](https://www.americanwaymedia.com/decoding-googles-helpful-content-system/) and classifies domains by measuring the semantic meaning of all pages as a collection in relation to each other.
@@ -286,7 +295,7 @@ The reason they are cited is because if you look at the code, these are H2s that
 
 AI would cite your content if you just had the H2s alone! The header structures are what makes it easy for LLMs to spend the tokens on your content.
 
-In fact, my indexation testing data indicates that Google is LESS inclined to index content that isn’t set up with header structures LIKE what you see in what we call listicles. They aren’t going to spend the resources on a wall of content.
+In fact, my indexation testing data indicates that Google is LESS inclined to index content that isn’t set up with header structures LIKE what you see in what we call listicles. They aren’t going to spend the resources on a wall of content. If Google doesn’t have it in their index, there goes all the potential LLM citations.
 
 ## Should Anyone Write Listicles
 
@@ -296,7 +305,7 @@ But doing them solely to get cited is starting your domain down a path where Gro
 
 Your authority won’t save you. Writing them as a human won't save you. 
 
-If you use TOC in its current form and flood your domain with them to ensure you get cited in LLMs, you will experience a short term gain. 
+If you use TOC in its current form and flood your domain with them to ensure you get cited in LLMs or even just out of habit, you **will** experience a short term gain. 
 
 But then you will pay the piper when your content is slowly or suddenly squeezed out of Google’s index because the HC or rather UN-helpful content tag is on the accidental duplicate content they create. 
 
@@ -306,27 +315,31 @@ Grokipedia is the ultimate cautionary tale.
 
 ## A broken canonical attribution system
 
-I used to think and talk about this as a broken canonical attribution system. 
+I used to think and talk about this phenomenon as a broken canonical attribution system. 
 
 I no longer think it's broken by accident. Within the HC system, it behaves as a feature not a fault.
 
 This won’t be the last time I write about this because I think it's going to take a while for all of us to come to grips with this unimagined reality. 
 
-The danger comes from two directions. 
+As I see it, the danger comes from two directions. 
 
 On the one end, a trusted and valuable content feature: the table of contents. 
 
-On the other, Helpful Content, which is still a black box to many. 
+On the other, (un)Helpful Content, which to many is still a black box.
 
-Our assumptions about each combine into a toxic cocktail. We continue to believe that TOC could not possibly behave differently than it has historically and couple that with a literal interpretation that Helpful Content is content that is written to be helpful.
+Our assumptions combine into a toxic cocktail. Deep beliefs that TOC could not possibly behave differently than it has historically and couple that with a literal interpretation of Helpful Content to be content that is written to be helpful.
 
 It's not your fault.
 
-Truthfully, we do NOT know the real nature of listicles in SERPS because the game is tilted.
+Truthfully, we do NOT know the real nature of listicles in SERPS because the game is tilted. We can’t separate the SERP effects of the power of the true power of a listicle if its very html structure gives short term thrills and long term pain.
 
-I wonder what might happen if moving forward we refuse to give the HCS any excuse to tag our domains with duplicate content.
+I wonder what might happen if if we let the semantic HTML of headers do the talking.
 
-Perhaps content structure using headers without these TOC links can be cited without risking a false classification of duplicate content. No more getting squeezed out of results by a system that is designed to insist that the canonical is just a suggestion on everything.
+Perhaps content structure using headers without these TOC links will continue to be cited by LLMs without risking a false classification of duplicate content by the Helpful Content System. 
+
+Being able to identify the mechanism responsible for content for businesses of any size getting squeezed out of search results is priceless.
+
+Recognizing a system designed to insist that the canonical is *just a suggestion* on anything is our first progressive step to stem the tide.
 
 
 
