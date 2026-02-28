@@ -7,6 +7,8 @@ description: This is a follow up article providing additional original analysis 
 
 Why? The same patterns affecting listicles are baked into how many sites and even Google itself structure their content.
 
+# Listicles And The Great Decline of February 2026
+
 February 2026 has yielded a number of articles concerning the possible targeting by Google of a particular article format; the listicle. In truth, there were really only two articles that provided original analysis. The first was from Amsive’s VP of SEO Strategy & Research, Lily Ray, her observations detailed in [Google Finally Cracking Down on Self-Promotional Listicles?](https://lilyraynyc.substack.com/p/is-google-finally-cracking-down-on) And Clearscope.io founder, Bernard Huang’s [Bad News: It’s Not Just Listicles](https://www.clearscope.io/blog/bad-news-its-not-just-listicles). Everything else afterwards appears to be secondary sources and commentary.
 
 In Lily’s article, the connection was made between an undeniable decline in visibility of the sites as evidence of a specific *crackdown* on this format. Google is now devaluing this specific pattern of self‑promotional, templated listicles that look like they were produced to exploit SERP and AI‑answer behavior. 
@@ -15,15 +17,17 @@ Bernard’s article starts from the “Google is deprioritizing self‑promotion
 
 As a forensic SEO and tester, this situation interests me.
 
-There is no denying that something has and is still happening. From all sides, the conclusions diverge on exactly why. The only consensus is that whatever it is, the reason lies at our feet. We’re doing it wrong.
+There is no denying that something has and is still happening. From all sides, the conclusions diverge on exactly why. The only consensus is that whatever it is, the reason lies at our feet and if we have a decline we’re doing it wrong.
 
 But are we?
+
+# Can This Decline Be Explained By Anything Else
 
 Could there be another plausible and perhaps more likely explanation?
 
 As one of the original testers working with single variable html testing, one of the most challenging aspects of testing is uncovering unaccounted for factors and even any assumptions that we bring to any analysis. Things that we assume could not possibly be a factor are often the most fertile ground for increased learning.
 
-## Whether it was a listicle or not
+## Whether it was a listicle or not there were visibility declines
 
 In the spirit of a friendly stress test of the conclusions drawn, I decided to look at many of the same sites used as the basis for Lily’s case study and Clearscope itself. Using Sistrix as well, I looked at over 110 page URLs, a few listicles but overall content with Table of Contents links covering the same range of sites and confirmed that each was involved in the overall downward trend of visibility. 
 
@@ -35,9 +39,17 @@ In short, it was not limited to self-serving listicles.
 
 ## Arrived at Different Conclusion as to Cause of Visibility Decline 
 
-What we have witnessed impacts more than only self-serving listicles and is across a broader scope of article formats. While we have reached new territory with AI in terms of how search is satisfied, why is it less likely that this sharp decline could also be triggered by a system in which the [canonical is now a suggestion](https://searchengineland.com/guide/canonical-urls)?
+What we have witnessed impacts far more and to a greater degree than only self-serving listicles across a broader scope of article formats. 
 
-If we game out what would happen if same-page jump links were treated as individual pages and no longer attributed to the main web page canonical, **THIS** is what that would look like: 
+While we have reached new territory with AI in terms of how search is satisfied, two things can be present and not be related. Specifically, sites can be scaling AI written content AND experience a decline without those having to be related to each other. 
+
+Given the fact that these declines appear to impact sites **NOT** scaling AI written content, another possible culprit might be in play. 
+
+# The Canonical As A Suggestion
+
+What we are seeing could also be triggered by a system in which the [canonical is now a suggestion](https://searchengineland.com/guide/canonical-urls)?
+
+If we game out what would happen if same-page jump links even where a rel=canonical tag is present become treated as individual pages and no longer attributed to the main web page canonical, **THIS** is what that would look like: 
 
 Duplicate content everywhere getting suppressed either with a smaller and smaller query footprint until, in some cases, the page is completely washed out of the live index.
 
@@ -73,7 +85,7 @@ Recently, Malte Landwehr confirmed that [Grokipedia was no longer cited by ChatG
 
 ![][image3].
 
-Sistrix domain data. Also illustrates a deep drop on the same day 2/2/26.
+Sistrix domain data for Grokipedia.com. Also illustrates a deep drop on the same day 2/2/26.
 
 ![][image4]
 
@@ -81,13 +93,13 @@ Sample page on Grokipedia.com.
 
 ![][image5]
 
-## Growing Claims Scaled Use of Automated AI Content is Killing Sites Unfounded
+## Growing Claims of Scaled Use of Automated AI Content is Killing Sites Unfounded
 
 Over the past week as I was collecting and comparing data for this report, increasingly new reports emerged from respectable sources claiming sites using [automated AI generated content](https://peec.ai/blog/the-real-risk-of-ai-generated-content) are responsible for their own destruction in visibility.
 
 Explaining “How AI content sites lose visibility” - they describe a familiar experience of short term surge in traffic, gaining traction only to “see substantial declines” later and in this most recent episode enterprise sites in early February.
 
-Grokipedia is used as such an example. And yet, there is another reasonable explanation.
+Grokipedia is used as such an example. And yet, there is another possible and reasonable explanation.
 
 
 ## Does The General Consensus Hold
@@ -108,7 +120,7 @@ The new part is we’re just now seeing how this has been impacting some of the 
 
 As early as 2023, I could see it in the sites I was working on. Mostly the type of sites I was looking at were affilliate sites.
 
-It’s new for me to see that it's even impacting Google. Even Google isn't immune from its own system.
+It’s new for me to see that it's even impacting Google. Apparently even Google isn't immune from its own system.
 
 They have the same increase in their impressions followed eventually by a sharp drop.
 
@@ -143,7 +155,7 @@ HyperText Markup Language (HTML) that we use every day is the foundational langu
 
 The \<a\>\</a\> html tags are the fundamental building blocks of web navigation for crawler bots like Googlebot.
 
-The `href` attribute in an `<a>` tag tells the bot that another URL exists, prompting a crawler to add that page to its queue for crawling. The target URL designated by the `href` can be absolute (https://www.domain.com/page-one/ or relative ( /page-one/).
+The `href` attribute in an `<a>` tag tells the bot that another URL exists, prompting a crawler to add that page to its queue for crawling. The target URL designated by the `href` can be absolute https://www.domain.com/page-one/ or relative ( /page-one).
 
 These html instructions are fundamental to web navigation.
 
@@ -166,7 +178,7 @@ In 2023, several URL parameters, particularly on Shopify and other e-commerce pl
 
 ## The Canonical Tag Handles This…Not
 
-As noted earlier, evidence does **NOT** support this assumption once Google deprecated the parameter tool in Search Console April 2022\.
+As noted earlier, events and evidence does **NOT** support this assumption once Google deprecated the parameter tool in Search Console April 2022\.
 
 ## Duplicate Content Implications
 
@@ -188,7 +200,7 @@ Previously I had considered that **IF** Google was treating these \#anchor links
 
 It became clear and undeniable that there is correlation between the presence of Table of Content features and the slow reduction in visibility of those pages and then with enough of those pages, the entire site.
 
-Duplicate content within the same domain would be obvious in a system where AI-guided topical assessments such as Helpful Content performs [horizontal content analysis](https://vizzex.ai/how-does-horizontal-content-analysis-differ-from-vertical-analysis/). Google no longer judges a single page in isolation but now also against other pages on the site to form a score for [siteFocus and siteRadius](https://www.hobo-web.co.uk/the-google-content-warehouse-leak-2024/). 
+Duplicate content within the same domain would be obvious in a system where AI-guided topical assessments such as what Helpful Content performs a [horizontal content analysis](https://vizzex.ai/how-does-horizontal-content-analysis-differ-from-vertical-analysis/). Google no longer judges a single page in isolation but now also against other pages on the site to form a score for [siteFocus and siteRadius](https://www.hobo-web.co.uk/the-google-content-warehouse-leak-2024/) which we gleaned from the leak Google's api content warehouse in May 2024, two weeks after I published my findings.
 
 The timing of the new ability for Google to perform such an analysis was felt most dramatically during the Sept 2023 standalone Helpful Content Update. All those HC rules and systems were rolled into the Core Algorithm by March 2024\.
 
