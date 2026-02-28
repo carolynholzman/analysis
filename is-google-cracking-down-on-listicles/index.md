@@ -280,7 +280,7 @@ This is the past year visibility for the blog section of an enterprise site that
 
 In the case above, the TOC links in their blog content were used for general content purposes.
 
-New sites for enterprise business that started up in recent months are publishing articles claiming *“The AI Did It To These Other Sites”* while using TOC links themselves. I regret to say that it is only a matter of time before they themselves will experience the rise and fall in their visibility.
+New sites for enterprise business that started up in recent months are publishing articles claiming *“The AI Did It To These Other Sites”* while using TOC links themselves. I regret to say that it is only a matter of time before they will experience the rise and fall in their own visibility.
 
 ## Classic Helpful Content Response 
 
