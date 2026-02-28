@@ -352,7 +352,9 @@ More to come. F
 
 
 You can follow/find me on [Linkedin](https://www.linkedin.com/in/carolynholzman/).
+
 You can email using my first name  @vizzex.ai
+
 Go here to be first notified of the [Really Helpful Listicle wordpress plugin](https://reallyhelpfullisticles.com/) 
 
 Catch every episode of [Confessions of An SEO](https://music.amazon.com/podcasts/e4c25d3a-4ca4-449d-8a6a-7f07b42c5413/confessions-of-an-seo%C2%AE) wherever you get podcasts.
