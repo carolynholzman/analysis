@@ -7,7 +7,7 @@ description: This is a follow up article providing additional original analysis 
 
 Why? The same patterns affecting listicles are baked into how many sites and even Google itself structure their content.
 
-# Listicles And The Great Decline of February 2026
+## Listicles And The Great Decline of February 2026
 
 February 2026 has yielded a number of articles concerning the possible targeting by Google of a particular article format; the listicle. In truth, there were really only two articles that provided original analysis. The first was from Amsive’s VP of SEO Strategy & Research, Lily Ray, her observations detailed in [Google Finally Cracking Down on Self-Promotional Listicles?](https://lilyraynyc.substack.com/p/is-google-finally-cracking-down-on) And Clearscope.io founder, Bernard Huang’s [Bad News: It’s Not Just Listicles](https://www.clearscope.io/blog/bad-news-its-not-just-listicles). Everything else afterwards appears to be secondary sources and commentary.
 
@@ -21,7 +21,7 @@ There is no denying that something has and is still happening. From all sides, t
 
 But are we?
 
-# Can This Decline Be Explained By Anything Else
+## Can This Decline Be Explained By Anything Else
 
 Could there be another plausible and perhaps more likely explanation?
 
@@ -45,7 +45,7 @@ While we have reached new territory with AI in terms of how search is satisfied,
 
 Given the fact that these declines appear to impact sites **NOT** scaling AI written content, another possible culprit appears to be in play which can explain the common experience for both those scaling and those not scaling AI written content. 
 
-# The Canonical As A Suggestion
+## The Canonical As A Suggestion
 
 What we are seeing could also be triggered by a system in which the [canonical is now a suggestion](https://searchengineland.com/guide/canonical-urls).
 
@@ -194,7 +194,7 @@ Google shared that some Table of Contents widgets can confuse their crawlers and
 
 Treating TOC as separate duplicate pages might also be described more precisely as *reduced clarity scores*.
 
-### (un)Helpful Content Implications
+##  (un)Helpful Content Implications
 
 Previously I had considered that **IF** Google was treating these \#anchor links as separate pages and generating duplicate content issues, it had to be a [broken canonical system](https://americanwaymedia.gumroad.com/l/fixthedamncanonical). 
 
@@ -308,7 +308,7 @@ Now whether you do listicles using TOC links or not is your business, literally.
 
 But doing them solely to get cited is starting your domain down a path where Grokipedia and even Google find themselves.
 
-# What February 2026 Revealed To Us
+## What February 2026 Revealed To Us
 
 Your authority won’t save you. Writing them as a human won't save you. 
 
@@ -338,7 +338,7 @@ Our assumptions about each combine into a toxic cocktail.
 
 Deep beliefs that TOC could not possibly behave differently than it has historically coupled with a literal interpretation of Helpful Content has brought havoc to the SERPs and small businesses. Only now, the pain is shared a little more when its all of us, including Google itself.
 
-# Are Listicles That Good Or Should We Toss Them
+## Are Listicles That Good Or Should We Toss Them
 
 Truthfully, we do NOT yet know the real nature of listicles in SERPS because the game is tilted. We can’t separate out what the true SERP effects are if within its very html structure there is an element that brings short term thrills and long term pain.
 
@@ -351,6 +351,8 @@ Being able to identify the mechanism responsible for the site content of any bus
 Recognizing a system designed to insist that the canonical is *just a suggestion* on anything is our first progressive step to stem the tide.
 
 More to come.
+
+
 
 ####################################################
 
