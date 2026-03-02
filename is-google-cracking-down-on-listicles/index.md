@@ -286,7 +286,7 @@ I published an analysis paper (paid) in Spring of 2024 which details how I arriv
 
 But other than identify that behavior, I could not find an SEO tool that could cost-effectively run a horizontal analysis on existing content.
 
-I have now. And full disclosure I’m a partner in [VizzEx](https://vizzex.ai) and shaping it with my understanding of what HC measures. There is a wordpress plugin and a HubSpot application for VizzEx.
+I have now. And full disclosure I’m a partner in [VizzEx](https://vizzex.ai) and shaping it with my understanding of what HC measures. There is a wordpress plugin and a HubSpot application for VizzEx and plans for more platforms.
 
 ## Are Listicles and Pages with TOC Links Doomed?
 
