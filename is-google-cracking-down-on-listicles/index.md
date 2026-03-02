@@ -324,7 +324,7 @@ I used to think and talk about this phenomenon as being a broken attribution sys
 
 I no longer think it's broken by accident. Within the HC system, it behaves as a feature, not a fault. Google's crawling system may function within the system, but their HD classifier does not appear to do the same.
 
-**At the heart of this, the problem is that what is hurting us lies within the DNA of how the web works.**
+**At the heart of this, the problem is what is hurting us lies within the DNA of how the web works when our content is being classified by a Helpful Content System that assesses without consideration of the canonical for same page links.**
 
 This won’t be the last time I write about this because I think it's going to take a while for all of us to come to grips with this unimagined reality. 
 
