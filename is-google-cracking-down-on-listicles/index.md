@@ -196,7 +196,7 @@ And even Google has said maybe we shouldn't be using Table of Contents in our co
 
 At a closed door summit event a [Google Creator Summit in Washington, DC in September 2025](https://tomikoharvey.com/google-creator-summit-review/), one of the participants shared: 
 
-### **Your Table of Contents Might Be Hurting You**
+    ### **Your Table of Contents Might Be Hurting You**
 
     Google shared that some Table of Contents widgets can confuse their crawlers and even reduce clarity scores.
 
