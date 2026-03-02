@@ -198,7 +198,7 @@ At a closed door summit event a [Google Creator Summit in Washington, DC in Sept
 
 ### **Your Table of Contents Might Be Hurting You**
 
-Google shared that some Table of Contents widgets can confuse their crawlers and even reduce clarity scores.
+    Google shared that some Table of Contents widgets can confuse their crawlers and even reduce clarity scores.
 
 Treating TOC as separate duplicate pages could also be described more precisely as *reduced clarity scores*.
 
