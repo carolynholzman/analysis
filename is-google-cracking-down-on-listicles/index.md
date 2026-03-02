@@ -238,7 +238,7 @@ Likewise, the recent deep drop in visibility is equally undeniable in early Febr
 
 How can that be? 
 
-There seems to be a price to be paid by the duplicate content Google’s HC perceives. I can not stress enough that the duplicate content is not a true condition of the site. It's just a false narrative courtesy of the HC system using the DNA of our html to *imitate* it.
+There seems to be a price to be paid by the duplicate content Google’s HC perceives. I can not stress enough that the duplicate content is not a true condition of the site. It's just a false narrative courtesy of the HC system using the DNA of our html.
 
 Additionally, all those *duplicate pages* focused on different, varying grouping of related queries related to their associated header structure. Those expanded queries based on the headers was most likely the mechanism that powered the subsequent increase in impressions. This appears in analysis tools as increased visibility.
 
